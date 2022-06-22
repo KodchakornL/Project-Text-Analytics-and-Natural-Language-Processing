@@ -1,1 +1,1 @@
-# Project : "Generate Lyrics thai song"
+# Thai music lyrics generated with RNN
