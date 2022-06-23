@@ -1,5 +1,5 @@
 # Thai music lyrics generated with RNN  
-Project  in BADS7203 Text Analytics abd Natural Language Processing (NLP) 
+Project  in BADS7203 Text Analytics abd Natural Language Processing (NLP)  
 [![](https://img.shields.io/badge/-RNN-blue)](#) [![](https://img.shields.io/badge/-GRU-green)](#)  
   
 **Project organizers**  
