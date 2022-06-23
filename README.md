@@ -29,16 +29,16 @@ Dataset : 1400 Thai lyrics, including 44 Thai artists
 Model use gated Recurrent Units(GRU). Solve the vanishing/Exploding gradient problem of RNNs  
 GRU does not possess any internal memory, they don’t have an output gate that is present in LSTM  
   
-<img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.1.png" width="350" height="300" />  
+<img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.1.png" width="450" height="250" />  
   
 GRU’s has fewer tensor operations , they are a little speedier to train then LSTM  
 <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.2.png" width="450" height="250" />  
 The GRU cell contains only two gates:  
       - The Update gate  
-         <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.3.png" width="350" height="300" />  
+         <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.3.png" width="450" height="250" />  
 
       - The Reset gate  
-        <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.6.png" width="350" height="300" />  
+        <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.6.png" width="450" height="250" />  
   
 output => Combining the output  
 
