@@ -8,12 +8,20 @@ Dataset : 1400 Thai lyrics, including 44 Thai artists
       - BeautifulSoup  
       - Requests  
       - Pandas  
-3. Cleaning data : Remove special characters (such as ',' , '(' , ')' , '[' , ']' etc), numbers, and irrelevant words.  
+3. Cleaning data : Remove special characters (such as ',','(',')','.','-','[',']','"' etc.), numbers, and irrelevant words.  
 4. Word tokenize : Use pythainlp   
       ```
       import pythainlp
       from pythainlp import word_tokenize
-
       ```
+  
 ## Train Model  
+Model use gated Recurrent Units(GRU). Solve the vanishing/Exploding gradient problem of RNNs  
+GRU does not possess any internal memory, they don’t have an output gate that is present in LSTM  
+GRU’s has fewer tensor operations , they are a little speedier to train then LSTM  
+The GRU cell contains only two gates:  
+      - The Update gate  
+      - The Reset gate  
+output => Combining the output  
 
+## Result  
