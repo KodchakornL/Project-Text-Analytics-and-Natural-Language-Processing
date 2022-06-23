@@ -39,9 +39,8 @@ The GRU cell contains only two gates:
 output => Combining the output  
 
 ## Result  
-![pic1](/slide_ppt/picture_No.10.png)  
-![pic1](/slide_ppt/picture_No.11.png)  
-![pic1](/slide_ppt/picture_No.12.png)  
-![pic1](/slide_ppt/picture_No.13.png)  
-![pic1](/slide_ppt/picture_No.14.png)  
-  
+<img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.10.png" width="550" height="500" />  
+<img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.11.png" width="550" height="500" />    
+<img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.12.png" width="550" height="500" />    
+<img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.13.png" width="550" height="500" />    
+<img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.14.png" width="550" height="500" />    
