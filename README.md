@@ -36,10 +36,10 @@ GRU’s has fewer tensor operations , they are a little speedier to train then L
 The GRU cell contains only two gates:  
   
    - **The Update gate**  
-         <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.3.png" width="450" height="250" />  
+          <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.3.png" width="450" height="250" />  
   
    - **The Reset gate**  
-        <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.6.png" width="450" height="250" />  
+          <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.6.png" width="450" height="250" />  
   
 output => Combining the output  
         <img src="https://github.com/KodchakornL/Thai-music-lyrics-generated-with-RNN/blob/main/slide_ppt/picture_No.9.png" width="450" height="250" />  
