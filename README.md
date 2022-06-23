@@ -10,10 +10,10 @@ Dataset : 1400 Thai lyrics, including 44 Thai artists
       - Pandas  
 3. Cleaning data : Remove special characters (such as ',' , '(' , ')' , '[' , ']' etc), numbers, and irrelevant words.  
 4. Word tokenize : Use pythainlp   
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+      ```
+      import pythainlp
+      from pythainlp import word_tokenize
 
-6. 
+      ```
+## Train Model  
+
